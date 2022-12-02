@@ -1,5 +1,5 @@
 # GraphColoring-Project
-A semester-long group project split into 3 phases. Please consult _2020-2021_1-1_ProjectManual.pages_ for more information about the project and its phases. 
+A semester-long group project split into 3 phases. Please consult _2020-2021_1-1_ProjectManual.pdf_ for more information about the project and its phases. 
 
 Our code for each phase is in a separate folder and inside there's a README file that explains how to run the code.
 
