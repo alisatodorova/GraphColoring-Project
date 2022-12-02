@@ -1,0 +1,35 @@
+coloring/Graph.java
+ coloring.Graph
+ coloring.Graph$1
+coloring/ColEdge.java
+ coloring.ColEdge
+coloring/CreateGraph.java
+ coloring.CreateGraph
+coloring/Hints.java
+ coloring.Hints
+coloring/Checker.java
+ coloring.Adjacent
+ coloring.Checker
+coloring/ReadData.java
+ coloring.ReadData
+testing/Kek.java
+ testing.Kek
+coloring/UpperBound.java
+ coloring.UpperBound
+coloring/FileRead.java
+ coloring.FileRead
+coloring/Backtrack.java
+ coloring.Backtrack
+ coloring.BacktrackSolution
+coloring/GUI.java
+ coloring.GUI
+ coloring.GUI$1
+ coloring.GUI$2
+ coloring.GUI$3
+ coloring.GUI$4
+ coloring.GUI$5
+ coloring.GUI$6
+ coloring.GUI$6$1
+ coloring.GUI$6$1$1
+ coloring.GUI$7
+ coloring.GUI$8
